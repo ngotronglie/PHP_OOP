@@ -1,0 +1,18 @@
+{
+    "name": "ngotr/ontap",
+    "autoload": {
+        "psr-4": {
+            "Ngotr\\Ontap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ngo Trong Liem",
+            "email": "ngotrongliem2004@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "eftec/bladeone": "^4.9"
+    }
+}
